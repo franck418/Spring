@@ -87,7 +87,7 @@ A:
 如果多个bean有相同的初始化和销毁方法， 可以使用default-init-method和default-destroy-method来指定；
 如下：
 
-```
+``` xml
  <?xml version="1.0" encoding="UTF-8"?>
  
  <beans xmlns="http://www.springframework.org/schema/beans"
